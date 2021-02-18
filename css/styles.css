@@ -17,10 +17,10 @@ body {
 }
 h1 {
 	font-size:70px;
-	letter-spacing:-2px;  
+	letter-spacing:1px;  
 	text-align:center; 
 	padding-top:30px;
-	font-weight:500;
+	font-weight:600;
 
 	font-family: 'Frijole', cursive;
 	font-family: 'Black Ops One', cursive;
