@@ -121,6 +121,7 @@ background-position: -331px 0px;
 display:block;
 text-align:center;
 margin-top:40px;
+font-size:21px;
 }
 #Content h2 {
 display: inline-block;
@@ -290,9 +291,6 @@ margin:10px;
 	text-align: center;
 	font-size: 29px;
 	font-weight: 300;
-	}
-	.tempBy{
-		font-size:21px;
 	}
 	.styled {
 	margin-bottom: 30px;
