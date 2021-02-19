@@ -121,6 +121,7 @@ background-position: -331px 0px;
 display:block;
 text-align:center;
 margin-top:40px;
+font-size:17px;
 }
 #Content h2 {
 display: inline-block;
@@ -198,7 +199,7 @@ display: inline-block;
 text-align:center;
 }
 .intro{
-font-size:22px;
+font-size:30px;
 font-weight:normal;
 margin-bottom:30px;
 }
@@ -266,6 +267,9 @@ margin:10px;
 	.wrapper{width:100%;}
 	.styled div {
 	  margin-bottom:10px; 
+	}
+	.tempBy{
+		font-size:21px;
 	}
 }
 @media(max-width:420px){
