@@ -121,7 +121,7 @@ background-position: -331px 0px;
 display:block;
 text-align:center;
 margin-top:40px;
-font-size:21px;
+font-size:18px;
 }
 #Content h2 {
 display: inline-block;
@@ -290,12 +290,15 @@ margin:10px;
 	margin: 0px 5px 0px 5px;
 	padding: 0px;
 	text-align: center;
-	font-size: 23px;
+	font-size: 20px;
 	font-weight: 300;
 	}
 	.styled {
-	margin-bottom: 30px;
+	margin-top: 30px;
 	}
+	.intro {
+		margin-bottom: 20px;
+		}
 	#subscribe input[type="button"]{
 	margin-top:10px;
 	}
